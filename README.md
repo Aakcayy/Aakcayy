@@ -6,27 +6,25 @@
 
 ## 📖 About me
 
-- :computer: I'm a Junior Backend Developer At Apsiyon
+- 🌱 I'm currently learning **.Net Frontend Development**
 
-- 🌱 I’m currently learning **.Net Backend Development**
+- 🎓 I am a Computer Engineering student
 
-- 🎓 I'm a Management Information Systems graduate.
+- 📝 My own blog page ((https://ahmetakcay23.blogspot.com/))
 
-- 📝 I regularly write (Turkish) articles on [https://dogukanngumus.medium.com/](https://dogukanngumus.medium.com/)
 
-- 📫 How to reach me **dogukanngumus@gmail.com**
 
 
 ## 👨‍💻 Languages and Tools:
 ![CSharp](https://img.shields.io/badge/-C%20Sharp-239120?logo=C-sharp&style=flat-square)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![MySQL](https://img.shields.io/badge/-MySql-4479A1?logo=MySQL&style=flat&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=Visual-Studio&style=flat-square)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=flat&logoColor=ffffff)
+
 
 ## 📈 Github Stats
 
