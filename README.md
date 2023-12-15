@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://ahmetakcay23.blogspot.com/" target="_blank">
-  <img src="[[https://www.flaticon.com/free-icon/blogger_327251](https://www.flaticon.com/free-icon/blogger_327251)](https://www.flaticon.com/free-icon/blogger_327251))" height="35" alt="Blogger logo"  />
+  <img src="[[[https://www.flaticon.com/free-icon/blogger_327251](https://www.flaticon.com/free-icon/blogger_327251)](https://www.flaticon.com/free-icon/blogger_327251)](https://www.flaticon.com/free-icon/blogger_327251))" height="35" alt="Blogger logo"  />
   </a>
   <a >
   <img src="https://komarev.com/ghpvc/?username=Aakcayy&&color=blueviolet&label=PROFILE+VIEWS" height="35" alt="Profile Counter"  />
