@@ -25,5 +25,25 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=Visual-Studio&style=flat-square)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
+###
+
+<div align="center">
+<!--<a href="" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</a>-->
+<a href="mailto:ahmetakcay944@gmail.com"  target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+<a href="https://www.linkedin.com/in/ahmet-ozdemir-akcay-44a550258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="ahmetakcay23.blogspot.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Medium-66cdaa?style=flat-quare&labelColor=66cdaa&logo=Medium&logoColor=white&link=link)" height="35" alt="Medium logo"  />
+  </a>
+  <a >
+  <img src="https://komarev.com/ghpvc/?username=Aakcayy&&color=blueviolet&label=PROFILE+VIEWS" height="35" alt="Profile Counter"  />
+  </a>
+  
+</div>
 
 
