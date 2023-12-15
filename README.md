@@ -37,8 +37,8 @@
 <a href="https://www.linkedin.com/in/ahmet-ozdemir-akcay-44a550258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="ahmetakcay23.blogspot.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Medium-66cdaa?style=flat-quare&labelColor=66cdaa&logo=Medium&logoColor=white&link=link)" height="35" alt="Medium logo"  />
+  <a href="https://ahmetakcay23.blogspot.com/" target="_blank">
+  <img src="https://www.flaticon.com/free-icon/blogger_255310?term=blogger&page=1&position=36&origin=search&related_id=255310)" height="35" alt="Medium logo"  />
   </a>
   <a >
   <img src="https://komarev.com/ghpvc/?username=Aakcayy&&color=blueviolet&label=PROFILE+VIEWS" height="35" alt="Profile Counter"  />
