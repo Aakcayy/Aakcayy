@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://ahmetakcay23.blogspot.com/" target="_blank">
-  <img src=![Blogger icon](./assets/blogger-icon.png)  />
+  <img src=![Blogger icon](./assets/blogger-icon-colorful.png)/>
   </a>
   <a >
   <img src="https://komarev.com/ghpvc/?username=Aakcayy&&color=blueviolet&label=PROFILE+VIEWS" height="35" alt="Profile Counter"  />
