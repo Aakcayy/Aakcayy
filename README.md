@@ -45,7 +45,8 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://ahmetakcay23.blogspot.com/" target="_blank">
-  <img src=![Blogger icon](./assets/blogger-icon-colorful.png)/>
+  <img src=![Blogger icon](.![image](https://github.com/Aakcayy/Aakcayy/assets/124554775/6ff0954e-df8a-40ca-b440-c1879ee12f2c)
+)/>
   </a>
   <a >
   <img src="https://komarev.com/ghpvc/?username=Aakcayy&&color=blueviolet&label=PROFILE+VIEWS" height="35" alt="Profile Counter"  />
