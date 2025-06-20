@@ -2,6 +2,7 @@
 
 <h3 align="center">Hello, I'm Ahmet Özdemir Akçay</h3>
 
+
 ## 📖 About me
 
 - 🌱 Currently learning **.NET Frontend Development**
