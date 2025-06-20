@@ -1,7 +1,6 @@
 <h3 align="center"><img width="30%" src="https://i.ibb.co/6DXgTgD/Developer-activity-bro.png" alt="Developer activity"/></h3>
 
 <h3 align="center">Hello, I'm Ahmet Özdemir Akçay</h3>
-<h4 align="center">Computer Engineering Student</h4>
 
 ## 📖 About me
 
