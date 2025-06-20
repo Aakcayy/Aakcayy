@@ -58,10 +58,5 @@
   </a>
   
 </div>
-<!-- Profil Görüntüleme Sayacı -->
-<p align="center">
-  <a href="https://github.com/Aakcayy">
-    <img src="https://komarev.com/ghpvc/?username=Aakcayy&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="Profile Views" height="25"/>
-  </a>
-</p>
+
 
