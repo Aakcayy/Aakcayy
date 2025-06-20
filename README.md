@@ -27,6 +27,11 @@
 
 
 ![MySQL](https://img.shields.io/badge/-MySql-4479A1?logo=MySQL&style=flat&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
+
+
+
+
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=Visual-Studio&style=flat-square)
