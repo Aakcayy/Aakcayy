@@ -39,24 +39,6 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 ###
-<!-- Teknoloji Rozetleri -->
-<p align="center">
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" height="30" alt="Flutter" />
-  </a>
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square" height="30" alt="Dart" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" height="30" alt="Python" />
-  </a>
-  <a href="https://medium.com/@ahmetakcay23" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=flat-square" height="30" alt="Medium" />
-  </a>
-  <a href="https://ahmetakcay23.blogspot.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Blogger-FF5722?logo=blogger&logoColor=white&style=flat-square" height="30" alt="Blogger" />
-  </a>
-</p>
 
 <div align="center">
 <!--<a href="" target="_blank">
@@ -76,5 +58,10 @@
   </a>
   
 </div>
-
+<!-- Profil Görüntüleme Sayacı -->
+<p align="center">
+  <a href="https://github.com/Aakcayy">
+    <img src="https://komarev.com/ghpvc/?username=Aakcayy&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="Profile Views" height="25"/>
+  </a>
+</p>
 
