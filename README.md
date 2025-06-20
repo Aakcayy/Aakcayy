@@ -18,18 +18,24 @@
 
 ---
 
-## 👨‍💻 Languages and Tools
+## 👨‍💻 Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&style=flat-square&logoColor=white" alt="C#" height="30" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square&logoColor=white" alt="Python" height="30" />
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&style=flat-square&logoColor=white" alt="Dart" height="30" />
+</p>
+
+## 🛠️ Tools & Technologies
+
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=flat-square&logoColor=white" alt="MySQL" height="30" />
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&style=flat-square&logoColor=white" alt="Flutter" height="30" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square&logoColor=white" alt="Git" height="30" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&style=flat-square&logoColor=white" alt="Visual Studio" height="30" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&style=flat-square&logoColor=white" alt="VS Code" height="30" />
 </p>
+
 
 ---
 
