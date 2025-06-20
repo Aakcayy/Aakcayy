@@ -42,9 +42,6 @@
 ---
 
 <div align="center">
-  <a href="mailto:ahmetakcay944@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" alt="Gmail" height="28" />
-  </a>
   <a href="https://www.linkedin.com/in/ahmet-ozdemir-akcay-44a550258" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn" height="28" />
   </a>
