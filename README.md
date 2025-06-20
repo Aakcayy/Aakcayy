@@ -24,6 +24,8 @@
 
 ## 👨‍💻 Languages and Tools:
 ![CSharp](https://img.shields.io/badge/-C%20Sharp-239120?logo=C-sharp&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square)
 
 
 ![MySQL](https://img.shields.io/badge/-MySql-4479A1?logo=MySQL&style=flat&logoColor=ffffff)
@@ -49,10 +51,9 @@
 <a href="https://www.linkedin.com/in/ahmet-ozdemir-akcay-44a550258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://ahmetakcay23.blogspot.com/" target="_blank">
-  <img src=![Blogger icon](.![image](https://github.com/Aakcayy/Aakcayy/assets/124554775/6ff0954e-df8a-40ca-b440-c1879ee12f2c)
-)/>
-  </a>
+  <a href="[https://medium.com/@ahmetakcay23](https://medium.com/@ahmetozdemirakcay)" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=flat-square" alt="Medium icon"/>
+</a>
   <a >
   <img src="https://komarev.com/ghpvc/?username=Aakcayy&&color=blueviolet&label=PROFILE+VIEWS" height="35" alt="Profile Counter"  />
   </a>
