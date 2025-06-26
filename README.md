@@ -5,7 +5,7 @@
 
 ## 📖 About me
 
-- 🌱 Currently learning **.NET Frontend Development**
+- 🌱 Currently learning **.NET Development**
 - 🎓 Computer Engineering Student
 - 📝 Check out my blog: [ahmetakcay23.blogspot.com](https://ahmetakcay23.blogspot.com/)
 
